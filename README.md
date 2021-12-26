@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Moustafa Mohamed**. I'm an experienced C/C++, Java programmer with working knowledge of data structures and algorithms, I'm Free Software Enthusiast and I'm interested in Algorithmic Problems and Computational Science.
+My name is **Moustafa Mohamed**. I'm an experienced C/C++, Java programmer with working knowledge of data structures and algorithms, I'm Free Software Enthusiast and I'm interested in Algorithmic Problems.
 
 
 ### Contact 📬
