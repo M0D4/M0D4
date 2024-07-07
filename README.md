@@ -24,7 +24,6 @@
 - :trophy: `ACPC` Finalist 2020 and 2021.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `CodeChef`, `Google Contests`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1_81hiL2HOui78FPpYSbPCwjmLGIx25p0/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 
 <br>
